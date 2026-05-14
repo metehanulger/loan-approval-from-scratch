@@ -1,4 +1,3 @@
-[README_scratch.md](https://github.com/user-attachments/files/27763049/README_scratch.md)
 # 🏦 Loan Approval Prediction — From Scratch
 
 A Logistic Regression model built **without any ML libraries**, using only NumPy and pandas. Every component — train/test split, standard scaler, gradient descent, and evaluation metrics — is implemented from scratch.
